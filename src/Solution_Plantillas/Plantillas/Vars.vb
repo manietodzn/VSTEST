@@ -231,7 +231,7 @@ Module Vars
         IberoChalco = 6
     End Enum
 
-    'ABBR 25/08/2016..... Empate del modulo
+    'ABBR 25/08/2016............. Empate del modulo
     Public enuTipoEmpresaGit As eTipoEmpresaGit
 
 End Module
